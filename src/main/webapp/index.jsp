@@ -36,7 +36,7 @@
       <br>
       <span class="badge badge-secondary">3820797</span>
       <br>
-      <span class="badge badge-success">Your Major (and Minor if possible)</span>
+      <span class="badge badge-success">IT</span>
       <br>
       <span class="badge badge-danger">Your Hobby</span>
       <br>

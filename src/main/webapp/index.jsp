@@ -38,7 +38,7 @@
       <br>
       <span class="badge badge-success">IT</span>
       <br>
-      <span class="badge badge-danger">Your Hobby</span>
+      <span class="badge badge-danger">basketball</span>
       <br>
       <span class="badge badge-warning">Your Favouritate Programming Language</span>
       <!-- You only need to change these information, ends here! -->

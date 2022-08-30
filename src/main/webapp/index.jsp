@@ -32,13 +32,13 @@
 
       <!-- You only need to change these information, starts here! -->
       <p>Here is the information you need to change:</p>
-      <span class="badge badge-primary">Khoi</span>
+      <span class="badge badge-primary">Your Name</span>
       <br>
-      <span class="badge badge-secondary">3820797</span>
+      <span class="badge badge-secondary">Your student ID (sID)</span>
       <br>
-      <span class="badge badge-success">IT</span>
+      <span class="badge badge-success">Yout Major (and Minor if possible)</span>
       <br>
-      <span class="badge badge-danger">basketball</span>
+      <span class="badge badge-danger">Your Hobby</span>
       <br>
       <span class="badge badge-warning">Your Favouritate Programming Language</span>
       <!-- You only need to change these information, ends here! -->
